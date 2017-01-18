@@ -1,0 +1,18 @@
+{
+   "name": "angular-seed-live",
+   "version": "0.1.0",
+   "description": "Bootstrap new Angular apps with zero dependencies ",
+   "scripts": {
+      "start": "lite-server"
+   },
+   "repository": {
+      "type": "git",
+      "url": ""
+   },
+   "keywords": [],
+   "author": "vigie",
+   "license": "ISC",
+   "devDependencies": {
+      "lite-server": "^2.2.2"
+   }
+}
