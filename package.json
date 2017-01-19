@@ -1,20 +1,38 @@
 {
-   "name": "angular-seed-live",
-   "version": "0.1.0",
-   "description": "Bootstrap new Angular apps with zero dependencies ",
-   "scripts": {
-      "start": "lite-server"
-   },
-   "repository": {
-      "type": "git",
-      "url": "https://github.com/vigie/angular-seed-live"
-   },
-   "keywords": [
-      "Angular"
-   ],
-   "author": "vigie",
-   "license": "ISC",
-   "devDependencies": {
-      "lite-server": "^2.2.2"
-   }
+  "name": "angular-seed-live",
+  "version": "0.1.0",
+  "description": "Bootstrap new Angular apps with zero dependencies ",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vigie/angular-seed-live"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "vigie",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/common": "^2.4.4",
+    "@angular/compiler": "^2.4.4",
+    "@angular/core": "^2.4.4",
+    "@angular/forms": "^2.4.4",
+    "@angular/http": "^2.4.4",
+    "@angular/platform-browser": "^2.4.4",
+    "@angular/platform-browser-dynamic": "^2.4.4",
+    "@angular/router": "^3.4.4",
+    "@angular/upgrade": "^2.4.4",
+    "@webcomponents/custom-elements": "^1.0.0-alpha.3",
+    "clarity-angular": "^0.8.3",
+    "clarity-icons": "^0.8.3",
+    "clarity-ui": "^0.8.3",
+    "core-js": "^2.4.1",
+    "lite-server": "^2.2.2",
+    "mutationobserver-shim": "^0.3.2",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.7.4"
+  }
 }
