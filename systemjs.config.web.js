@@ -39,6 +39,7 @@
          '@angular/upgrade/static': 'npm:@angular/upgrade/bundles/upgrade-static.umd.js',
 
          // other libraries
+         'clarity-angular': 'npm:clarity-angular/clarity-angular.umd.js',
          'rxjs': 'npm:rxjs',
          'angular-in-memory-web-api': 'npm:angular-in-memory-web-api/bundles/in-memory-web-api.umd.js',
          'ts': 'npm:plugin-typescript@4.0.10/lib/plugin.js',
